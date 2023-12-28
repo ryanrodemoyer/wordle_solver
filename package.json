@@ -1,0 +1,17 @@
+{
+  "name": "@rrodey/wordle-solver",
+  "version": "1.0.1",
+  "description": "A solver for Wordle puzzles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "wordle"
+  ],
+  "author": "Ryan Rodemoyer",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
